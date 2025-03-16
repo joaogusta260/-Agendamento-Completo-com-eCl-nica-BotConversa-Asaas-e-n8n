@@ -1,6 +1,6 @@
-![Fluxos Principais](./FOTO%20PRINCIPAL%20DOS%20FLUXOS.png)
-
 # Agendamento Completo com eClínica, BotConversa, Asaas e n8n
+
+![Fluxos Principais](./FOTO%20PRINCIPAL%20DOS%20FLUXOS.png)
 
 Este projeto integra uma série de fluxos criados no **n8n** com as APIs do **eClínica** e **Asaas** e o sistema de mensagens do **BotConversa (BrisaBot)** para automatizar completamente o processo de agendamento – seja para avaliação presencial, online ou reavaliação – em uma clínica de cirurgia plástica renomada. Essa automação não só agiliza o atendimento como também aumentou em **60%** o número de agendamentos concluídos, diminuindo a evasão e otimizando a experiência do paciente e da equipe.
 
